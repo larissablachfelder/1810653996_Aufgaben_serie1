@@ -12,6 +12,17 @@ public class main {
         int alter = 19;
         System.out.println(alter);
 
+        //Aufgabe4
+
+        String fachhochschuleKufsteinTirol = "Fachhochschule Kufstein Tirol";
+
+        //variablenname verkürzen
+
+        String fhKufsteinTirol = "Fachhochschule Kufstein Tirol";
+
+        //In Konstante umwandeln und umbenennen
+
+        final String FH_KUFSTEIN_TIROL = "Fachhochschule Kufstein Tirol";
     }
 
 
